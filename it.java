@@ -1,6 +1,7 @@
 if（ a）{
-	a）
+	b）
 }
 else（b）{
-	b
+	a
 }
+public b；
