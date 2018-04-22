@@ -1,7 +1,2 @@
-if（ a）{
-	b）
-}
-else（b）{
-	a
-}
+这个是b仓库
 public b；
