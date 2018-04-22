@@ -4,4 +4,4 @@ if（ a）{
 else（b）{
 	a
 }
-public b；
+public a；
